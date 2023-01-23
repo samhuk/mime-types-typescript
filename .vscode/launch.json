@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Update",
+      "program": "./update.js",
+      "request": "launch",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "node"
+    },
+  ]
+}
